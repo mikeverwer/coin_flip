@@ -6,5 +6,5 @@ A simple python program that simulates flipping coins, looking for heads, and pl
 - matplotlib
 - numpy
 
-Made by: Mike Verwer, Professor of Methematics & Statistics, Mohawk College
+Made by: Mike Verwer, Professor of Mathematics & Statistics, Mohawk College
 2023
